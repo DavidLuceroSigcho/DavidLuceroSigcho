@@ -1,230 +1,191 @@
-<h1 align="center">Hi, I'm David Lucero Sigcho 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer | AI & SaaS Builder | ICT Engineering Student
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:115E59,100:2563EB&text=David%20Lucero%20Sigcho&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20SaaS%20Builder&descAlignY=59&animation=fadeIn" alt="David Lucero Sigcho profile banner" />
 
-<p align="center">
-Passionate about web development, artificial intelligence, automation, cloud infrastructure and building real business solutions.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lucero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-lucero-sigcho/)
+[![Instagram](https://img.shields.io/badge/Instagram-@david__lucero__sigcho-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/david_lucero_sigcho/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:adriellucero2000@hotmail.com)
+![Location](https://img.shields.io/badge/Quito-Ecuador-0F766E?style=flat-square&logo=googlemaps&logoColor=white)
 
----
+</div>
 
-## 👨‍💻 About Me
+## About me
 
-Talking about personal stuffs:
+I am a **Full-Stack Developer**, **AI and SaaS builder**, and **ICT Engineering student** based in Quito, Ecuador.
 
-- 👨‍💻 I really love web development, both frontend and backend.
-- 🤖 I am passionate about artificial intelligence, automation and SaaS platforms.
-- 💬 I really like to share my knowledge and help others ❤️.
-- 🎓 I am an ICT Engineering student.
-- 🚀 I studied a Full-Stack Developer specialization.
-- 🏆 I participated in two hackathons at LaunchX of Virtual Innovation powered by Microsoft.
-- 📫 How to reach me: **adriellucero2000@hotmail.com**
-- 🌎 Based in Quito, Ecuador.
+I focus on creating practical digital products that combine software development, artificial intelligence, automation, cloud infrastructure, and real business operations.
+
+- Building multi-tenant SaaS platforms and AI-powered business solutions.
+- Working across frontend, backend, APIs, databases, infrastructure, and automation.
+- Interested in hospitality technology, omnichannel systems, intelligent agents, and cloud platforms.
+- Participant in two **LaunchX Virtual Innovation hackathons powered by Microsoft**.
+- Open to collaboration on software, AI, automation, and digital transformation projects.
 
 ---
 
-## 🚀 Recent Projects
+## Featured products
 
-### 🏨 MethaPMS — Smart Hotel Management Platform
+<table>
+<tr>
+<td width="33%" valign="top">
 
-A modern PMS platform for hotels, hosterías, resorts and tourist accommodations.
+### 🏨 MethaPMS
 
-**Main features:**
+Smart hotel management platform for hotels, hosterías, resorts, and tourist accommodations.
 
-- Multi-hotel architecture.
-- Reservation management.
-- Room availability engine.
-- Room status control.
-- Payment engine.
-- Guest and customer management.
-- Reception dashboard.
-- Reports and operational tools.
-- API for external integrations.
-- Integration ready for AI agents, WhatsApp and automation flows.
+**Highlights**
 
-**Tech Stack:**
+- Multi-hotel architecture
+- Reservations and availability
+- Room status operations
+- Payments and guest management
+- Reception dashboard and reports
+- External API integrations
+- AI and automation ready
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Docker`
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🤖 MethaAI — Multi-Industry AI Agents Platform
+### 🤖 MethaAI
 
-Core platform for creating AI agents for different industries such as hotels, clinics, schools, stores and service businesses.
+Multi-industry platform for intelligent agents connected to real business systems.
 
-**Main features:**
+**Highlights**
 
-- AI agents connected to business systems.
-- WhatsApp automation.
-- Web chat support.
-- Telegram support.
-- n8n workflows.
-- API integrations.
-- CRM and PMS connection.
-- Custom agent behavior per client.
-- Multi-industry architecture.
+- WhatsApp automation
+- Web chat and Telegram
+- Custom behavior per business
+- PMS and CRM integrations
+- n8n workflows and webhooks
+- Multi-industry architecture
+- Human-guided AI conversations
 
-**Tech Stack:**
+`Node.js` `OpenAI API` `n8n` `WhatsApp` `Chatwoot`
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chatwoot_API-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" />
-</p>
+</td>
+<td width="33%" valign="top">
 
----
+### 🛍️ MethaCatalog
 
-### 🛍️ MethaCatalog — Smart Catalog Platform
+SaaS platform for digital catalogs, product management, and AI-assisted sales.
 
-A catalog SaaS platform for businesses that want to create digital catalogs, manage products and connect with AI sales agents.
+**Highlights**
 
-**Status:** In development.
+- Responsive digital catalogs
+- Multi-client administration
+- Industry-specific templates
+- Products and services
+- AI sales agent integration
+- WhatsApp contact flows
+- Analytics and business tools
 
-**Planned features:**
+`Next.js` `TypeScript` `Tailwind CSS` `AI Agents`
 
-- Responsive business catalogs.
-- Client dashboard.
-- Catalog templates by industry.
-- Product and service management.
-- AI sales agent integration.
-- WhatsApp contact flow.
-- Multi-client SaaS structure.
-
-**Tech Stack:**
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agent-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Languages and Tools
+## Technology stack
 
-### Frontend
+### Core development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<div align="center">
 
-### Backend and Databases
+[![Core Development](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,vue,angular,tailwind,bootstrap&perline=11)](https://skillicons.dev)
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhooks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+</div>
 
-### Cloud, DevOps and Infrastructure
+### Backend and data
 
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" />
-</p>
+<div align="center">
 
-### APIs, Automation and AI
+[![Backend and Data](https://skillicons.dev/icons?i=nodejs,java,prisma,postgres,mysql,redis&perline=6)](https://skillicons.dev)
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chatwoot_API-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" />
-  <img src="https://img.shields.io/badge/SMTP_Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
+</div>
 
-### Tools
+### Cloud, infrastructure, and tools
 
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+<div align="center">
+
+[![Cloud and Tools](https://skillicons.dev/icons?i=gcp,azure,docker,linux,cloudflare,git,github,githubactions,vscode,figma,postman,wordpress&perline=12)](https://skillicons.dev)
+
+</div>
+
+### AI, automation, and integrations
+
+<div align="center">
+
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot%20API-1F93FF?style=flat-square&logo=chatwoot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-111827?style=flat-square&logo=webhooks&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP%20Email-0078D4?style=flat-square&logo=gmail&logoColor=white)
+
+</div>
+
+<details>
+<summary><strong>Additional platforms and infrastructure</strong></summary>
+<br>
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</details>
 
 ---
 
-## 📌 What I'm Currently Building
+## Currently building
 
-- 🏨 **MethaPMS:** Smart PMS for hotels and tourist accommodations.
-- 🤖 **MethaAI:** AI agents for multiple industries.
-- 🛍️ **MethaCatalog:** Smart catalog builder with AI sales support.
-- 💬 **Omnichannel systems:** WhatsApp, web chat, Telegram and CRM workflows.
-- ☁️ **Cloud SaaS infrastructure:** Docker, Linux VPS, PostgreSQL, Redis, Cloudflare and API integrations.
-
----
-
-## 🌐 Social Media
-
-<p>
-  <a href="https://www.linkedin.com/in/david-lucero-sigcho/" target="_blank" rel="nofollow">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Lucero%20Sigcho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/david_lucero_sigcho/" target="_blank" rel="nofollow">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-david__lucero__sigcho-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="mailto:adriellucero2000@hotmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-adriellucero2000%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
+| Product | Focus | Status |
+|---|---|---|
+| **MethaPMS** | Hotel operations, reservations, availability, payments, and internal tools | Active development |
+| **MethaAI** | AI agents, WhatsApp automation, Telegram, web chat, PMS and CRM integrations | Active development |
+| **MethaCatalog** | Digital catalogs, multi-tenant SaaS, and AI-assisted sales | In development |
+| **MethaPanel** | Lightweight hosting control panel and infrastructure automation | Research and development |
+| **MethaMail** | Business email management and branded mail services | Early development |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidLuceroSigcho&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLuceroSigcho&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidLuceroSigcho&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=2DD4BF&rank_icon=github" alt="David Lucero Sigcho GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLuceroSigcho&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Most used languages" />
 
-## 💡 Personal Quote
+<img width="68%" src="https://streak-stats.demolab.com?user=DavidLuceroSigcho&hide_border=true&background=00000000&ring=2DD4BF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub contribution streak" />
 
-> I believe technology is not only about code.  
-> It is about solving real problems, helping businesses grow and creating tools that make life easier.
+</div>
 
 ---
 
-<p align="center">
-🚀 Building the future with code, automation, cloud and AI.
-</p>
+## Professional interests
+
+```text
+AI agents            SaaS architecture       Full-stack development
+Business automation  Cloud infrastructure    API integrations
+Hospitality tech     Omnichannel systems     Product engineering
+```
+
+---
+
+## Personal principle
+
+> Technology is not only about writing code. It is about solving real problems, helping businesses grow, and creating tools that make life easier.
+
+<div align="center">
+
+### Building practical products with code, cloud, automation, and AI.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,50:115E59,100:0D1117" alt="Footer decoration" />
+
+</div>
