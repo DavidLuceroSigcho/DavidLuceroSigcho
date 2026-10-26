@@ -49,7 +49,19 @@ A growing ecosystem of modular business applications, AI-powered tools, and infr
 | **MethaPOS** | Retail point-of-sale workflows. |
 | **MethaBilling EC** | Electronic billing tools for Ecuador. |
 | **MethaMail** | Business email administration and services. |
+| **MethaSuite Platform** | Shared multi-tenant platform, identity, administration, and integration foundations. |
 | **MethaSuite Core** | Shared platform components and integration foundations. |
+
+### Mobile apps and television experiences
+
+| Product | Focus | Current stage |
+|:--|:--|:--|
+| **📱 [MethaStay](https://github.com/DavidLuceroSigcho/methastay)** | Mobile guest experience and accommodation discovery; part of the broader MethaGo vision. | Android app · in development |
+| **📲 [MethaPMS Manager](https://github.com/DavidLuceroSigcho/methapms-manager)** | Mobile hotel management and operational oversight. | Android app · in development |
+| **🧹 [MethaPMS Staff](https://github.com/DavidLuceroSigcho/methapms-staff)** | Staff-focused hotel operations and day-to-day tasks. | Android app · in development |
+| **📺 [MethaTV](https://github.com/DavidLuceroSigcho/methatv)** | Independent, PMS-agnostic television platform with Hospitality and Home experiences. | Android TV · in development |
+
+**MethaGo** is the planned broader guest-facing app experience, with MethaStay as its accommodation module. MethaTV Hospitality is designed to operate independently of MethaPMS, with optional PMS integration.
 
 > **Product stages are intentionally distinguished.** An active implementation is not necessarily a public commercial release. Some repositories are private while development continues.
 
@@ -62,7 +74,8 @@ I work across different infrastructure roles so individual platforms can evolve 
 ```text
 AI & AUTOMATION         Agents, n8n, messaging and system integrations
 WEB & HOSTING           MethaPanel, MethaDB, WordPress, DNS and SSL/TLS
-BUSINESS PLATFORMS      MethaPMS, CRM and ERP development
+BUSINESS PLATFORMS      MethaPMS, CRM, ERP, Billing and Catalog development
+MOBILE & TV             React Native / Expo apps and Android TV experiences
 EMAIL SERVICES          Business mail infrastructure
 ```
 
@@ -86,11 +99,23 @@ I build around real operational needs: **design, deploy, test, measure, and impr
 
 ## 🛠️ Technology stack
 
-### Frontend and web
+### Programming languages, frontend and web
 
 <div align="center">
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,wordpress,php&perline=10)](https://skillicons.dev)
+
+</div>
+
+### Mobile and Android
+
+<div align="center">
+
+[![Mobile](https://skillicons.dev/icons?i=react,ts,android&perline=3)](https://skillicons.dev)
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Android TV](https://img.shields.io/badge/Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=black)
 
 </div>
 
@@ -120,6 +145,7 @@ I build around real operational needs: **design, deploy, test, measure, and impr
 ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-334155?style=flat-square)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
 
